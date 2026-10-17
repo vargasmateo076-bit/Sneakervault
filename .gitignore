@@ -1,0 +1,18 @@
+# Dependencias
+node_modules/
+
+# Entornos y credenciales
+.env
+
+# Compilación y builds móviles / Angular
+dist/
+www/
+platforms/
+android/app/build/
+ios/
+.angular/
+.ionic/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
